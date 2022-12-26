@@ -4,7 +4,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 öncelikle projeyi clonelayın
 
 ``` 
-git clone [https://github.com/cengizcmataraci/kodluyoruzilkrepo.git](https://github.com/tyToplu/kodluyoruzilkrepo) 
+git clone https://github.com/tyToplu/kodluyoruzilkrepo 
 ```
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
